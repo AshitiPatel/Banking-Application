@@ -1,4 +1,4 @@
-Welcome to my Banking Application. 
+A fully independent Banking Application created using Object Oriented Programming and GUI for a hypothetical bank to maintain customers' details while providing a secure login portal, recording and processing transactions for different types of bank accounts, and saving and reading data, to and from files. This was my final project for the Grade 12 Computer Science Course.
 
 Select Create Account on the first window and follow the instructions shown on screen. 
 
